@@ -18,4 +18,6 @@ ATENÇÃO
 Obs: Necessário ter uma chave válida da Google Places API.
 Crie o .env na raiz do projeto e cadastre sua GOOGLE_API_KEY=sua_chave_api
 
+No link do projeto foi ajustado para meu porfotlio em React e adicionado algumas melhorias visuais apenas, mas baseada em cima desse projeto inicial.
+
 
